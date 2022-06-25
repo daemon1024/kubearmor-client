@@ -13,7 +13,7 @@ replace (
 require (
 	github.com/accuknox/auto-policy-discovery/src v0.0.0-20220622153732-597108ffed2c
 	github.com/blang/semver v3.5.1+incompatible
-	github.com/cilium/cilium v1.10.0
+	github.com/cilium/cilium v1.10.11
 	github.com/clarketm/json v1.17.1
 	github.com/fatih/color v1.13.0
 	github.com/kubearmor/KVMService/src/types v0.0.0-20220619161146-0f42a61893bc
@@ -102,7 +102,6 @@ require (
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
-	github.com/miekg/dns v1.1.26 // indirect
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
 	github.com/moby/spdystream v0.2.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
