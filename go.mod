@@ -13,7 +13,7 @@ replace (
 
 require (
 	github.com/blang/semver v3.5.1+incompatible
-	github.com/cilium/cilium v1.13.0
+	github.com/cilium/cilium v1.13.1
 	github.com/clarketm/json v1.17.1
 	github.com/docker/docker v20.10.21+incompatible
 	github.com/fatih/color v1.13.0
